@@ -32,8 +32,7 @@
     "cross-env": "^7.0.3",
     "mocha": "^11.7.1",
     "ts-node": "^10.9.2",
-    "typescript": "^5.8.3",
-    "webdriverio": "^9.16.2"
+    "typescript": "^5.8.3"
   },
   "dependencies": {
     "dotenv": "^16.4.1"
